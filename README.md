@@ -4,3 +4,6 @@ The code contained in the merge_sort.go file can be run directly from the websit
 In order to specify input for the merge sort function, please edit the values in the list declaration contained in line 41 of the code!
 
 Code sourced from: https://blog.boot.dev/golang/merge-sort-golang/
+
+
+(Thanks again for the semester sir!)
